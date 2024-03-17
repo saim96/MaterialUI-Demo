@@ -12,7 +12,7 @@ export default function RatingDemo() {
       <Rating
         name="simple-controlled"
         value={score}
-        onChange={handChange}
+        onChange={handChange} //a lot of times we pass through some callback that we wanted to call given some event
       />
     </div>
   );
