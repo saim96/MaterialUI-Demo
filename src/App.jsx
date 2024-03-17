@@ -7,7 +7,6 @@ import RatingDemo from "./RatingDemo";
 function App() {
   return (
     <div>
-      
       <Button />
       <IconButton />
       <AlarmIcon />
